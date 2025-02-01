@@ -11,4 +11,4 @@ This tool allows users to generate custom Qubic addresses with desired prefixes 
 Simply clone the repository and compile the file with Microsoft Visual Studio Community 2022 edition. Press CTRL - SHIFT - B to build the .exe file run the script inside a Windows terminal with `.\vanitygenerator.exe VANITY`. The generator will search until it finds a matching address.
 
 ## License
-This project is open-source under the Anti Military License, which strictly prohibits any military use. Feel free to contribute or modify it, provided all usage complies with these terms.
+This project is open-source under the [Anti Military License](https://github.com/qubicecosystem/antimilitary-license), which strictly prohibits any military use. Feel free to contribute or modify it, provided all usage complies with these terms.
