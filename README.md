@@ -13,5 +13,5 @@ Simply clone the repository and compile the file with Microsoft Visual Studio Co
 ## License
 This project is open-source under the [Anti Military License](https://github.com/qubicecosystem/antimilitary-license), which strictly prohibits any military use. Feel free to contribute or modify it, provided all usage complies with these terms.
 
-[!CAUTION]
-Using these programs involves a risk to any funds involved, and the full responsibility for their use lies with the person running the software. Proceed at your own risk. 
+>[!CAUTION]
+>Using these programs involves a risk to any funds involved, and the full responsibility for their use lies with the person running the software. Proceed at your own risk. 
